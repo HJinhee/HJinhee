@@ -1,10 +1,14 @@
-### Hi there 👋
+<h3 align="center"> Han Jinhee ✨ </h3>
+
+
+<!-- <p>🌱 I’m currently learning ... </p>
+
+
+🖥 Android Developer
+
+💌 hwlsgml19@gmail.com -->
+
 <!--
-
-<p align="center">🇰🇷</p>
-
-<h3 align="center">👊 SKILLS 👊</h3>
-
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
@@ -25,33 +29,6 @@
 <!-- 
 <p align="center">
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHJinhee&count_bg=%2379C83D&title_bg=%23555555&icon=android.svg&icon_color=%2379C83D&title=hits&edge_flat=false"/></a>
-</p> 
--->
-
-<!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HJinhee)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HJinhee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p align="center">
-  <a href="http://lovera.maxam.now.sh/">
-    <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
-  </a>
-<!--   <h3 align="center">📌✨productive-box</h3> </p>-->
-
-<!-- 
-<p align="center">
-   <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
-   <img src="https://img.shields.io/github/license/HJinhee/productive-box"/>
-   <img src="https://img.shields.io/github/stars/HJinhee/productive-box"/>
-   <img src="https://img.shields.io/github/forks/HJinhee/productive-box"/>
-</p>
-
-<p align="center">
-   Are you an early 🐤 or a night 🦉?
-   <br/>
-   When are you most productive during the day?
-   <br/>
-   Let's check out in gist!
 </p> 
 -->
 
